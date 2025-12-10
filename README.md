@@ -10,7 +10,7 @@ This is a modern, responsive landing page for a fictional **AI-powered developme
 
 This project was built as a **practice project** using **React** to enhance front-end development skills, focusing on complex UI layouts and modern design principles.
 
-A huge **SHOUTOUT** and thank you to **PedroTech**! I followed his excellent tutorial to guide the structure and design of this page.
+A huge **SHOUTOUT** and thank you to **PedroTech**! I got the help from his tutorial to build this project.
 
 ## Features Showcase
 

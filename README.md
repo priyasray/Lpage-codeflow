@@ -1,4 +1,4 @@
-# 💻 CodeFlow AI: Code Faster, Build Better
+# 💻 Landing Page Practice Project (CodeFlow)
 
 ## Project Description
 

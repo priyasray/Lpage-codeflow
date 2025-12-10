@@ -39,7 +39,7 @@ To run the project locally (assuming the project files are already on your machi
 
 * **React**
 * **JavaScript**
-* **HTML/CSS** (or specific styling framework)
+* **HTML/CSS** (Tailwind CSS)
 
 ***
 
